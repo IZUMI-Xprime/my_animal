@@ -1,0 +1,59 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.104:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 113-084-300
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.104:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 113-084-300
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.104:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 113-084-300
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:34:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:34:03] "GET /static/transitions.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:34:03] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:34:03] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:34:05] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:34:05] "[36mGET /static/transitions.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:34:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:34:06] "[32mPOST /login HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:34:06] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:34:06] "[36mGET /static/transitions.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:34:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:34:09] "GET /video_feed HTTP/1.1" 200 -
+INFO:root:Animal detected at 2024-12-14 15:34:49
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.104:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 113-084-300
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:37:32] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:37:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:37:32] "[36mGET /static/transitions.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:37:33] "GET /video_feed HTTP/1.1" 200 -
+INFO:root:Animal detected at 2024-12-14 15:37:41
+INFO:root:Animal detected at 2024-12-14 15:38:26
+INFO:root:Animal detected at 2024-12-14 15:38:30
+INFO:root:Animal detected at 2024-12-14 15:38:40
+INFO:root:Animal detected at 2024-12-14 15:38:43
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:38:44] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:38:44] "GET /login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:38:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Dec/2024 15:38:44] "[36mGET /static/transitions.css HTTP/1.1[0m" 304 -
+INFO:root:Animal detected at 2024-12-14 15:38:46

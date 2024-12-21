@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #121212;
+    color: white;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+button, input {
+    margin: 10px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.proceed-button {
+    background: #28a745;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.proceed-button:hover {
+    background: #218838;
+}

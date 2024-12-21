@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="welcome-container">
+    <div class="graphic-animation">
+        <h1>Welcome</h1>
+        <div class="circle"></div>
+        <div class="square"></div>
+        <div class="triangle"></div>
+    </div>
+    <a href="{{ url_for('login') }}" class="proceed-button">Proceed</a>
+</div>
+{% endblock %}
