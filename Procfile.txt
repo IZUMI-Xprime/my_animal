@@ -1,1 +1,1 @@
-web: gunicorn telestream2:telestream2
+web: gunicorn telestream2:app
